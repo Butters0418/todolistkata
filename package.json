@@ -1,0 +1,19 @@
+{
+  "name": "todo-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Butters0418/todolistkata.git"
+  },
+  "author": "butters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Butters0418/todolistkata/issues"
+  },
+  "homepage": "https://github.com/Butters0418/todolistkata#readme"
+}
